@@ -1,4 +1,6 @@
-The sites and newsletters, listed below are those resouces that we follow and use to curate the interesting articles, links and resources for the https://initiatorcreator.com/
+# Initiator Creator Sources Directory
+
+The sites and newsletters, listed below are those resouces that we follow and use to curate the [Initiator Creator](https://initiatorcreator.com/) Newsletter, a weekly hand-curated newsletter full of interesting articles, links and resources divided into developer, designer, marketer, entrepreneur and must-read categories for easy digest.
 
 ## Designer
 
